@@ -1,6 +1,7 @@
 ### Hi there 👋
+## Under Construction
 
-<!--
+
 **daunsid/daunsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+- [Kaggle](https://www.kaggle.com/oluwadaunsidaniel)
+- [LinkedIn](https://www.linkedin.com/in/daniel-adeboye)
+- 
