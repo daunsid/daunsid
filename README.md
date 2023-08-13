@@ -1,4 +1,6 @@
-## Hi there 👋 I'm _Daniel Adeboye_, (AI Engineer, Innovator, and Lifelong Learner)
+# ![daunsi](https://github.com/daunsid/daunsid/blob/master/python-2.gif)
+
+## Hi there 👋 I'm _Daniel Adeboye_
 
 ### What have I been up to? 🤔
 
