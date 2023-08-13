@@ -1,26 +1,23 @@
-### Hi there 👋 I'm _Daniel Adeboye_, (AI Engineer, Innovator, and Lifelong Learner)
+## Hi there 👋 I'm _Daniel Adeboye_, (AI Engineer, Innovator, and Lifelong Learner)
+
+### What have I been up to? 🤔
 
 My journey has been fueled by a love for `mathematics`, `science`, and `the limitless potential of artificial intelligence`. I hold a distinguished first-class honors degree in Electrical Engineering.
 
-- 🔭 I’m currently working on developing AI applications that revolutionize health care, diagnostics, and treatment methodologies.
+- 🔭 I’m currently working on developing AI applications to revolutionize health care, diagnostics, and treatment methodologies.
 - 👯 I’m looking to collaborate on research centered around transformer architectures, image segmentation, and generative models.
-
 - ⚡ Fun fact: When I'm not immersed in the world of AI, you can find me engrossed in amazing books like The Bible, Thinking Fast, and Slow, 
-Movies have a special place in my heart, especially those that bring true stories to life on the big screen.
-I cherish my quiet moments, during which I ponder the vast tapestry of past and future possibilities. Exploring the fate of the world and its intricate complexities fuels my curiosity and creativity. 
-
-Here are some ideas to get you started:
-
+      Movies have a special place in my heart, especially those that bring true stories to life on the big screen.
+      I cherish my quiet moments, during which I ponder the vast tapestry of past and future possibilities. Exploring the fate of the world and its intricate             complexities fuels my curiosity and creativity. 
 
 - 🌱 I’m currently learning ...
-
-
 - 💬 Ask me about ...
   
 - 📫 How to reach me:
-- [Kaggle](https://www.kaggle.com/oluwadaunsidaniel)
-- [LinkedIn](https://www.linkedin.com/in/daniel-adeboye)
-
+<br>
+<a href='https://www.linkedin.com/in/daniel-adeboye/'><img align='left' alt="linkedin" src="https://github.com/daunsid/daunsid/blob/master/linkedin.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/oluwadaunsidaniel'><img alt="kaggle" src="https://github.com/daunsid/daunsid/blob/master/kaggle.svg" height='18px'/></a>
+<br>
 <br>
 
 ### 🔨 Languages and Tools:
