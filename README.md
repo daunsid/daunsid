@@ -1,10 +1,6 @@
-### Hi there 👋
-## AI Engineer, Innovator, and Lifelong Learner
+### Hi there 👋 I'm _Daniel Adeboye_, (AI Engineer, Innovator, and Lifelong Learner)
 
-**daunsid/daunsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-I'm _Daniel Adeboye_, My journey has been fueled by a love for `mathematics`, `science`, and `the limitless potential of artificial intelligence`. I hold a distinguished first-class honors degree in Electrical Engineering.
+My journey has been fueled by a love for `mathematics`, `science`, and `the limitless potential of artificial intelligence`. I hold a distinguished first-class honors degree in Electrical Engineering.
 
 - 🔭 I’m currently working on developing AI applications that revolutionize health care, diagnostics, and treatment methodologies.
 - 👯 I’m looking to collaborate on research centered around transformer architectures, image segmentation, and generative models.
